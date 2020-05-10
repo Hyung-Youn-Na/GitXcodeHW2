@@ -12,4 +12,6 @@ print("Hello, World!")
 
 print("Update in leader")
 
+print("Hello, World on Local B")
+
 print("Update in local A")
